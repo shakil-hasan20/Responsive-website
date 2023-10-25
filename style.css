@@ -485,16 +485,6 @@ footer{
 
 
 
-
-
-
-
-
-
-
-
-
-
 /* first second section of main tag media query code start  */
 
 @media only screen and (max-width: 688px) {
@@ -571,8 +561,7 @@ footer{
 
     /* footer section  */
     #footer-parent{
-        display: flex;
-        flex-direction: column;
+        display: block;
         margin-left: 30px;
         margin-right: 30px;
     }
